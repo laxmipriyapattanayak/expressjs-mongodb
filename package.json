@@ -1,0 +1,19 @@
+{
+  "name": "int-fs7-express.js-mongodb-",
+  "version": "1.0.0",
+  "description": "CRUD API with Express.js and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Integrify-Finland/INT-FS7-Express.js-MongoDB-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Integrify-Finland/INT-FS7-Express.js-MongoDB-/issues"
+  },
+  "homepage": "https://github.com/Integrify-Finland/INT-FS7-Express.js-MongoDB-#readme"
+}
