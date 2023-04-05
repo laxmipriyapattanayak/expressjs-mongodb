@@ -19,6 +19,7 @@
 - Test the API endpoints using a tool like Postman.
 - Implement pagination and sorting in the API.
 - Implement MongoDB schema validations in the Book schema using Mongoose.
+- API documentation
 
 ## Submission
 
