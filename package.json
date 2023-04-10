@@ -4,6 +4,7 @@
   "description": "CRUD API with Express.js and MongoDB",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,19 @@
   "bugs": {
     "url": "https://github.com/Integrify-Finland/INT-FS7-Express.js-MongoDB-/issues"
   },
-  "homepage": "https://github.com/Integrify-Finland/INT-FS7-Express.js-MongoDB-#readme"
+  "homepage": "https://github.com/Integrify-Finland/INT-FS7-Express.js-MongoDB-#readme",
+  "keywords": [],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  }
 }
